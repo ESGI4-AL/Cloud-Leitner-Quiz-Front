@@ -40,4 +40,4 @@ $ npm run test:coverage
 - Camillia HAMMOU - chammou1@myges.fr
 <br>
 <br>
-➡ 4AL1  -  GROUPE 6
+➡ 4AL1  -  GROUPE 4
